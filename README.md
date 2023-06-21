@@ -1,5 +1,4 @@
-================================================================
-                         		 road2root 2023 presents 
+=======================================  road2root 2023 presents 
      			   wUD --  Windows Update Disabler v0.08
 						 crack by v/\der
 
