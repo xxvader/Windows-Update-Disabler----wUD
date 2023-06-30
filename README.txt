@@ -11,8 +11,8 @@
  `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'
 ================================================================
                                      klesk obelisk 2023 presents 
-     			   wUD --  Windows Update Disabler v0.08
-						  hack by v/\der
+     			   wUD --  Windows Update Disabler v0.09
+						       hack by v
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔══╦══╗░╔═╗
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔═╦═╣╔╗╠╗╗╠═╣╬║
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╚╗║╔╣╠╣╠╩╝║╩╣╗╣
@@ -20,7 +20,7 @@
 ================================================================
 
 ░░░░Information
-wUD hack v0.8 created by vader (@kleskObelisk) -- tool that
+wUD hack v0.9 created by v (@kleskObelisk) -- tool that
 performs multiple none evasive methods documented by the public
 to disable Windows Update. These settings can be reversed after
 being applied.
@@ -68,10 +68,13 @@ registry keys:
 Turn Windows Update services back on. Remove all registry
 entries added by wUD.
 
+░░░░0.8>0.9
+-visual status
+-minimze
 
 
 ░░░░have more ideas or information on methods to disable Windows
-Update? give me DM message via Twitter.com/kleskObelisk ATTN:v
+Update? Twitter.com/kleskObelisk ATTN:v
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░█░░░░░░░░░░█░░░█░░░░██┼┼┼┼░░░░no fate but what we make░░░░░░░
 ░░░░░░░██┼░░░░░░░█┼░░██┼░░██████┼┼░░░░░░░███░░██░░░░░░░░░░░░░░░░░░░
