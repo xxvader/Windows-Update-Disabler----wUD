@@ -19,6 +19,11 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╚═╝╚╝╚╩══╩═╩╩╝
 ================================================================
 
+░░░░Operation
+Depending on your privilege level on your PC. You might have to
+run wUD with administration rights. Right click the wUD icon and
+select run as administrator.
+
 ░░░░Information
 wUD hack v0.9 created by v (@kleskObelisk) -- tool that
 performs multiple none evasive methods documented by the public
