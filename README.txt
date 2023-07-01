@@ -11,7 +11,7 @@
  `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'
 ================================================================
                                      klesk obelisk 2023 presents 
-     			   wUD --  Windows Update Disabler v0.09
+     			    wUD --  Windows Update Disabler v1.0
 						       hack by v
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔══╦══╗░╔═╗
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔═╦═╣╔╗╠╗╗╠═╣╬║
@@ -57,6 +57,11 @@ resource and will run in the background at 20mb. It requires
 no internet connection, block the hell out of it with your
 firewall if you wish.
 
+wUD will sound an audio siren alert when Windows
+Update attempts to reenable itself while being in "Lock Off"
+mode. wUD will attack it and disable it immediately and
+automatically.
+
 ░░░░Patch Registry
 Patching will stop current Windows Update services and add
 additional registry entries to ensure Windows Update don't
@@ -72,6 +77,9 @@ registry keys:
 ░░░░Enable Windows Update (Reverse)
 Turn Windows Update services back on. Remove all registry
 entries added by wUD.
+
+░░░░0.9>1.0
+-audio alerts
 
 ░░░░0.8>0.9
 -visual status
