@@ -37,7 +37,7 @@ wish.
 ░░░░Install
 There is no install, place the wUD.exe wherever you wish.
 Right click the wUD program icon and select "Run as
-administrator".
+administrator". Read operation options below.
 
 ░░░░Lock Off Windows Update
 Lock Off option ensures Windows Update doesn't enable or 
