@@ -41,14 +41,15 @@ administrator".
 
 ░░░░Lock Off Windows Update
 Lock Off option ensures Windows Update doesn't enable or 
-download ever while the hack is running. Disables Windows
-Update and current Windows Update services running on your
-OS. 
+download ever while the hack is running. It will disable Windows
+Update and current Windows Update services running on your OS. 
 
 Windows itself along with other applications can order Windows
 Update to start back up, by using "Lock Off" wUD will
 immediately terminate any reattempt Windows Update makes to
-enable itself while you're not looking.
+enable itself while you're not looking and alert you with
+an audio alert when Windows Update tries to enable itself
+behind your back. It will be detected and terminated by wUD.
 
 wUD hack must be kept on to monitor any attempts Windows
 Update makes to startup again. wUD hack takes low system
