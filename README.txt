@@ -36,8 +36,7 @@ wish.
 
 ░░░░Install
 There is no install, place the wUD.exe wherever you wish.
-Depending your privilege level on your PC, you will need to
-right click the wUD program icon and select "Run as
+Right click the wUD program icon and select "Run as
 administrator".
 
 ░░░░Lock Off Windows Update
