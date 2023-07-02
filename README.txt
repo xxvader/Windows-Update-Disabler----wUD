@@ -35,10 +35,10 @@ on it and see for yourself. Block it with your firewall if you
 wish.
 
 ░░░░Install
-There is no install, unzip the wUD.exe wherever you wish and
-run. You will need to right click the wUD program icon and
-select "Run as administrator" if you get errors while trying
-to run the program or while patching.
+There is no install, place the wUD.exe wherever you wish.
+Depending your privilege level on your PC, you will need to
+right click the wUD program icon and select "Run as
+administrator".
 
 ░░░░Lock Off Windows Update
 Set your Windows Update worries aside. Lock Off option ensures
