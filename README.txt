@@ -40,10 +40,10 @@ Right click the wUD program icon and select "Run as
 administrator".
 
 ░░░░Lock Off Windows Update
-Set your Windows Update worries aside. Lock Off option ensures
-Windows Update doesn't enable or download ever while the hack
-is running. Disables Windows Update and current Windows Update
-services running on your OS. 
+Lock Off option ensures Windows Update doesn't enable or 
+download ever while the hack is running. Disables Windows
+Update and current Windows Update services running on your
+OS. 
 
 Windows itself along with other applications can order Windows
 Update to start back up, by using "Lock Off" wUD will
