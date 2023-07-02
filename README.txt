@@ -55,7 +55,8 @@ wUD hack must be kept on to monitor any attempts Windows
 Update makes to startup again. wUD hack takes low system
 resource and will run in the background at 20mb. It requires
 no internet connection, block the hell out of it with your
-firewall if you wish.
+firewall if you wish. wUD is 100% spyware, malware, and virus
+free. Run a 1000 scans on it and see for yourself. 
 
 wUD will sound an audio siren alert when Windows
 Update attempts to reenable itself while being in "Lock Off"
