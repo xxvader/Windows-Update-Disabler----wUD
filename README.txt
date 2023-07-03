@@ -25,7 +25,7 @@ run wUD with administration rights. Right click the wUD icon and
 select run as administrator.
 
 ░░░░Information
-wUD hack v0.9 created by v (@kleskObelisk) -- tool that
+wUD 1.0 (Gold build) created by v (@kleskObelisk) -- tool that
 performs multiple none evasive methods documented by the public
 to disable Windows Update. These settings can be reversed after
 being applied.
@@ -77,6 +77,7 @@ entries added by wUD.
 ░░░░0.9>1.0(Gold)
 -audio alerts
 -stealth reenable counter
+-ko graphical on service kill
 
 ░░░░0.8>0.9
 -visual status
