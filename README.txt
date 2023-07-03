@@ -11,7 +11,7 @@
  `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'   `-`-'   `-'-'
 ================================================================
                                      klesk obelisk 2023 presents 
-     			    wUD --  Windows Update Disabler v1.0
+     		     wUD --  Windows Update Disabler v1.0 (Gold)
 						       hack by v
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔══╦══╗░╔═╗
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔═╦═╣╔╗╠╗╗╠═╣╬║
@@ -74,8 +74,9 @@ registry keys:
 Turn Windows Update services back on. Remove all registry
 entries added by wUD.
 
-░░░░0.9>1.0
+░░░░0.9>1.0(Gold)
 -audio alerts
+-stealth reenable counter
 
 ░░░░0.8>0.9
 -visual status
